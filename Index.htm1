@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Website</title>
+<style>
+body{font-family:Arial;margin:0;background:#f5f5f5}
+.header{background:#111;color:white;padding:40px;text-align:center}
+.header h1{margin:0;font-size:40px}
+.header p{opacity:0.7}
+.box{background:white;margin:20px;padding:20px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.1)}
+.btn{background:#111;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;display:inline-block;margin-top:10px}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Welcome to My Website</h1>
+<p>danish560700-boop</p>
+</div>
+
+<div class="box">
+<h2>About Me</h2>
+<p>Ye meri pehli website hai jo maine GitHub pe banayi hai.</p>
+<a class="btn" href="#">Contact Me</a>
+</div>
+
+<div class="box">
+<h2>My Services</h2>
+<p>✔️ Web Design<br>✔️ Development<br>✔️ Support</p>
+</div>
+
+</body>
+</html>
